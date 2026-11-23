@@ -1,0 +1,2 @@
+# Retail-Sales-Data-Cleaning-Pivot-Dashboard-Excel-Power-Query-
+An end-to-end Excel &amp; Power Query data analysis project for an Egyptian retail company (662 raw transactions across 9 cities). Cleaned and standardized messy records, handled duplicates and invalid entries using documented business rules, engineered calculated metrics (Gross Sales, Discount ), and built an interactive dashboard featuring 8 Pivot  
